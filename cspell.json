@@ -4,6 +4,6 @@
   "dictionaryDefinitions": [],
   "dictionaries": [],
   "words": [],
-  "ignoreWords": ["VITE", "supabase"],
+  "ignoreWords": ["VITE", "supabase", "vercel"],
   "import": []
 }
